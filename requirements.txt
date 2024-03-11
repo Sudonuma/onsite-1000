@@ -1,0 +1,17 @@
+pandas
+fastapi
+uvicorn
+numpy
+seaborn
+torch
+tqdm
+matplotlib
+torchvision
+scipy
+Pillow
+jinja2
+datasets
+scikit-learn
+joblib
+xgboost
+prophet
